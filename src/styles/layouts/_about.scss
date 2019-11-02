@@ -1,0 +1,67 @@
+.about {
+    text-align: left;
+    position: relative;
+    animation: fadein .5s;
+
+    &-avatar {
+        display: inline-block;
+        height: 296px;
+        width: calc((100%/3) - 24px);
+        margin: 0 10px 15px 10px;
+        border: solid 2px;
+        -webkit-filter: opacity(.7);
+        background: url('../../assets/avatar.png') center;
+        background-size: cover;
+
+        @include respond(tab-land) {
+            width: 200px;
+        }
+        @include respond(tab-port) {
+            width: 200px;
+        }
+        @include respond(phone) {
+            width: calc(100% - 24px);
+            height: 300px;
+        }
+    }
+    &-content{
+        box-sizing: border-box;
+        display: inline-block;
+        width: calc((100%/3) * 2 - 40px);
+        margin: 0 10px 15px 10px;
+        min-height: 300px;
+        vertical-align: top;
+        padding: 20px;
+
+        @include respond(tab-land) {
+            width: calc(70% - 20px);
+        }
+        @include respond(tab-port) {
+            padding: 0 20px;
+            width: calc(55% - 20px);
+        }
+        @include respond(phone) {
+            padding: 20px;
+            width: calc(100% - 20px);
+        }
+
+        h1 {
+            font-weight: 500;
+            font-size: 36px;
+        }
+    }
+
+    &-skills {
+        box-sizing: border-box;
+        display: inline-block;
+        width: calc(100% - 20px);
+        margin: 0 10px 15px 10px;
+        padding: 20px;
+        min-height: 300px;
+        border: solid 2px;
+
+        p {
+            font-size: 18px;
+        }
+    }
+}
