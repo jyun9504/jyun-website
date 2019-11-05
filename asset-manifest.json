@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.62529262.chunk.css",
-    "main.js": "/website/static/js/main.7e4b5af7.chunk.js",
-    "main.js.map": "/website/static/js/main.7e4b5af7.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.1d8097e4.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.1d8097e4.js.map",
-    "static/js/2.0cda7a45.chunk.js": "/website/static/js/2.0cda7a45.chunk.js",
-    "static/js/2.0cda7a45.chunk.js.map": "/website/static/js/2.0cda7a45.chunk.js.map",
-    "index.html": "/website/index.html",
-    "precache-manifest.d13463de63289c9a3fa5d434715a1861.js": "/website/precache-manifest.d13463de63289c9a3fa5d434715a1861.js",
-    "service-worker.js": "/website/service-worker.js",
-    "static/css/main.62529262.chunk.css.map": "/website/static/css/main.62529262.chunk.css.map",
-    "static/media/index.scss": "/website/static/media/avatar.270b9bd8.png",
-    "static/media/catchy.jpg": "/website/static/media/catchy.4f6dc274.jpg",
-    "static/media/elevator.jpg": "/website/static/media/elevator.c351631b.jpg",
-    "static/media/jyun-chat.png": "/website/static/media/jyun-chat.66f3548e.png",
-    "static/media/jyun-geo.png": "/website/static/media/jyun-geo.df820f5b.png",
-    "static/media/school.png": "/website/static/media/school.adaa3e2d.png"
+    "main.css": "/static/css/main.b095c66c.chunk.css",
+    "main.js": "/static/js/main.39024c6c.chunk.js",
+    "main.js.map": "/static/js/main.39024c6c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7695a539.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7695a539.js.map",
+    "static/js/2.17ff8caa.chunk.js": "/static/js/2.17ff8caa.chunk.js",
+    "static/js/2.17ff8caa.chunk.js.map": "/static/js/2.17ff8caa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8b6f106c6f7f186658bba0715f27a0ab.js": "/precache-manifest.8b6f106c6f7f186658bba0715f27a0ab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b095c66c.chunk.css.map": "/static/css/main.b095c66c.chunk.css.map",
+    "static/media/index.scss": "/static/media/avatar.270b9bd8.png",
+    "static/media/catchy.jpg": "/static/media/catchy.4f6dc274.jpg",
+    "static/media/elevator.jpg": "/static/media/elevator.c351631b.jpg",
+    "static/media/jyun-chat.png": "/static/media/jyun-chat.66f3548e.png",
+    "static/media/jyun-geo.png": "/static/media/jyun-geo.df820f5b.png",
+    "static/media/school.png": "/static/media/school.adaa3e2d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d8097e4.js",
-    "static/js/2.0cda7a45.chunk.js",
-    "static/css/main.62529262.chunk.css",
-    "static/js/main.7e4b5af7.chunk.js"
+    "static/js/runtime-main.7695a539.js",
+    "static/js/2.17ff8caa.chunk.js",
+    "static/css/main.b095c66c.chunk.css",
+    "static/js/main.39024c6c.chunk.js"
   ]
 }
